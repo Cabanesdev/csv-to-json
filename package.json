@@ -1,0 +1,18 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "CSV converter to json and vice versa",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "cabanesdev",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdoc": "^3.6.10",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "joi": "^17.6.0"
+  }
+}
